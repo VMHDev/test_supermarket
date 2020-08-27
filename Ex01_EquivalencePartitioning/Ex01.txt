@@ -1,0 +1,3 @@
+Sử dụng kỹ thuật phân hoạch tương đương, thiết kế test case cho màn hình chat
+
+MSSV.dox/xls
