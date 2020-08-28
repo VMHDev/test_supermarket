@@ -1,0 +1,4 @@
+Yêu cầu:
+	- Tìm 5 công cụ kiểm thử hiệu năng và liệt kê các tính năng
+	- Lập bảng so sánh tính năng dựa trên các tiêu chí lý thuyết
+	- Chọn 1 công cụ và demo chi tiết tính năng

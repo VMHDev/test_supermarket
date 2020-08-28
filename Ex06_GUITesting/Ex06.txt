@@ -1,0 +1,4 @@
+Yêu cầu:
+	1) 5 công cụ kiểm thử giao diện
+	2) Lập bảng so sánh
+	3) Sử dụng và viết hướng dẫn 2 công cụ
